@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+#leftfloat {
+    float: left;
+    height: 20%;
+    width: 20%;
+}
+#enter {
+    float: right;
+    font-size: larger;
+}
